@@ -211,9 +211,9 @@ section .title::after{
 .home .home-content i{
     display: inline-block;
     color: #F431C5;
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 5px;
-    font-weight: 400;
+    font-weight: 800;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
