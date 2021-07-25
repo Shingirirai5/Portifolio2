@@ -194,6 +194,7 @@ section .title::after{
 }
 .home .home-content .text-3 span{
     color: #F431C5;
+    text-shadow: 1px 1px #000000;
     font-weight: 500;
 }
 .home .home-content a{
@@ -213,7 +214,7 @@ section .title::after{
     color: #F431C5;
     font-size: 15px;
     margin-top: 5px;
-    font-weight: 800;
+    font-weight: 950;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
